@@ -1,2 +1,2 @@
 # InvestmentCalculator
-## Live Demo: https://investmentcalculator-applacition.surge.sh/
+## Live Demo: https://investmentcalculator-appp.netlify.app/
